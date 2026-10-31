@@ -155,10 +155,10 @@ Budgets
 
 ## 5. Final database design
 
-The following tables show the final 3NF design in a simple format. the ERD of the database is shown below.
+The following tables show the final 3NF design in a simple format. The ERD of the database is shown below.
 
 
-![[ERD.png]]
+[![[ERD.png]]](https://github.com/SulavBhandari01/Check-in-2/blob/main/ER%20Diagram.png)
 
 
 ## 7. Anomalies in the original design
